@@ -60,7 +60,7 @@ body{
 
 .about-heading {
     font-weight: 700;
-    text-transform: uppercase
+    text-transform: uppercase;
 }
 
 .knowMe-box-header {
@@ -179,4 +179,37 @@ body{
 }
 .link{
     text-decoration: none;
+}
+
+/* Footer */
+.footer-container{
+    text-align: center;
+    background-color: #313030;
+    margin-top: 100px;
+    padding-bottom: 20px;
+}
+.name-container{
+    color: white;
+    padding-top: 20px;
+    letter-spacing: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+}
+.hobby{
+    font-size: 17px;
+    padding-top: 20px;
+}
+.social-media{
+    width: 40px;
+    border-radius: 5px;
+    margin: 30px 20px 20px;
+}
+.social-media:hover{
+    width: 45px;
+    border-radius: 5px;
+    margin: 25px 20px 20px;
+}
+.copyright{
+    color: white;
 }
