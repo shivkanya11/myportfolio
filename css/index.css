@@ -148,7 +148,7 @@ body{
     padding: 50px 10px;
 }
 .card-row {
-    padding: 30px 50px;
+    padding: 30px 100px;
 }
 .card-body{
     background-color: rgb(245, 225, 230);
@@ -156,11 +156,11 @@ body{
 }
 .demo-container{
     background-color: rgb(245, 225, 230);
-    border-radius: 0px 10px;
+    border-radius: 0px;
     padding-bottom: 10px;
 }
 .card-btn{
-    background-color: #494849;
+    background-color:  #201f1f;
     margin: 0px 10px;
     padding: 5px 10px;
     width: 150px;
@@ -169,7 +169,7 @@ body{
     box-shadow: 0px 0px 5px 1px rgb(84, 84, 84);
 }
 .card-btn:hover{
-    background-color: #201f1f;
+    background-color: #494849;
     margin: 0px 10px;
     padding: 5px 10px;
     width: 150px;
